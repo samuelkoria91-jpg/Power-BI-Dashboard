@@ -1,7 +1,7 @@
 # Data Job Dashboard / Power Bi
 
 
-![Data Job Dashboard]()
+![Data Job Dashboard](/Images/Image%201.PNG)
 
 ## Introduction
 
@@ -10,13 +10,13 @@ Hi, I'm Samuel, Ispecialize in financial reporting, statutory compliance, and in
 ## Skills showcased
 
  **Data transformation (ETL) with power query**, *Data Collection & Preparation,Data Modeling,DAX (Data Analysis Expressions),Dashboard Design,Data Visualization,Business Intelligence Skills,Analytical Skills Demonstrated*.
-   ## KPI summary cards  *Built headline metric cards for total **job count, star rating**, *median salaries* — *giving instant at-a-glance insight*.
+   ## KPI summary cards  *Built headline metric cards for total *job count, star rating*, *median salaries* — *giving instant at-a-glance insight*.
    **Line chart — trend analysis** Built a **12-month trend chart** (Jan–Dec) showing *job volume peaks and troughs across the year*.
    ## Aggregation measures   **Created count of job titles (479K)**, *median yearly salary ($113K), and median hourly rate ($47.62) as DAX measures*.
-   ## Slicer  Job Title filter  *Added a **dropdown slicer** so users can filter every visual by any single job title or view all simultaneously*.
+   ## Slicer  Job Title filter  *Added a dropdown slicer so users can filter every visual by any single job title or view all simultaneously*.
    ## Drill through navigation  *Configured a Drill Through button, allowing users to right-click any data point and navigate to a detail report page*.
-   ## Data Visualization **Converted raw data into meaningful insights by visualizing**   *Salary trends,Monthly hiring trends,Highest-paying job roles,Salary comparisons across job titles,Distribution of data jobs,Job market insights,KPI summaries*
-   ## Technical Skills  **Microsoft Power BI, Power Query,DAX,Data Modeling,Dashboard Development & Interactive Reporting**
+   ## Data Visualization *Converted raw data into meaningful insights by visualizing**   *Salary trends,Monthly hiring trends,Highest-paying job roles,Salary comparisons across job titles,Distribution of data jobs,Job market insights,KPI summaries*
+   ## Technical Skills  *Microsoft Power BI, Power Query,DAX,Data Modeling,Dashboard Development & Interactive Reporting*
 
    ## Dasboard Overview
 
