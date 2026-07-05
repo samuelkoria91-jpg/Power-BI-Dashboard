@@ -5,18 +5,26 @@
 
 ## Introduction
 
-Hi, I'm Samuel, Ispecialize in financial reporting, statutory compliance, and investment advisory. Outside of professional practice, **I enjoy turning raw data into clear,actionable insights using Power BI** and Excel. This repository showcases **my Data Job Dashboard a Power BI project analyzing job market trends in the data industry**. The dashboard explores salary benchmarks, job title distributions, and hiring patterns across roles such as Data Analyst, Data Engineer, Data Scientist, and more. I believe that good data tells a story. *My goal is to build dashboards that are not just visually clean*, but genuinely useful for decision making.
+Hi, I'm Samuel, I specialize in financial reporting, statutory compliance, and investment advisory. Outside of professional practice, *I enjoy turning raw data into clear,actionable insights using Power BI** and Excel. This repository showcases **my Data Job Dashboard a Power BI project analyzing job market trends in the data industry*. The dashboard explores salary benchmarks, job title distributions, and hiring patterns across roles such as Data Analyst, Data Engineer, Data Scientist, and more. I believe that good data tells a story. *My goal is to build dashboards that are not just visually clean*, but genuinely useful for decision making.
 
 ## Skills showcased
 
  **Data transformation (ETL) with power query**, *Data Collection & Preparation,Data Modeling,DAX (Data Analysis Expressions),Dashboard Design,Data Visualization,Business Intelligence Skills,Analytical Skills Demonstrated*.
-   ## KPI summary cards  *Built headline metric cards for total *job count, star rating*, *median salaries* — *giving instant at-a-glance insight*.
-   **Line chart — trend analysis** Built a **12-month trend chart** (Jan–Dec) showing *job volume peaks and troughs across the year*.
-   ## Aggregation measures   **Created count of job titles (479K)**, *median yearly salary ($113K), and median hourly rate ($47.62) as DAX measures*.
-   ## Slicer  Job Title filter  *Added a dropdown slicer so users can filter every visual by any single job title or view all simultaneously*.
-   ## Drill through navigation  *Configured a Drill Through button, allowing users to right-click any data point and navigate to a detail report page*.
-   ## Data Visualization *Converted raw data into meaningful insights by visualizing**   *Salary trends,Monthly hiring trends,Highest-paying job roles,Salary comparisons across job titles,Distribution of data jobs,Job market insights,KPI summaries*
-   ## Technical Skills  *Microsoft Power BI, Power Query,DAX,Data Modeling,Dashboard Development & Interactive Reporting*
+   **KPI summary cards**  *Built headline metric cards for total *job count, star rating*, *median salaries* — *giving instant at-a-glance insight*.
+   **Line chart — trend analysis**  *Built a 12-month trend chart* (Jan–Dec) showing job volume peaks and troughs across the year*.
+
+   **Aggregation measures**      *Created count of job titles (479K), median yearly salary ($113K), and median hourly rate ($47.62) as DAX measures*.
+
+   **Slicer  Job Title filter**
+     *Added a dropdown slicer so users can filter every visual by any single job title or view all simultaneously*.
+
+   **Drill through navigation**  *Configured a Drill Through button, allowing users to right-click any data point and navigate to a detail report page*.
+
+   **Data Visualization**  
+   *Converted raw data into meaningful insights by visualizing**   *Salary trends,Monthly hiring trends,Highest-paying job roles,Salary comparisons across job titles,Distribution of data jobs,Job market insights,KPI summaries*
+
+   **Technical Skills**
+       *Microsoft Power BI, Power Query,DAX,Data Modeling,Dashboard Development & Interactive Reporting*
 
    ## Dasboard Overview
 
