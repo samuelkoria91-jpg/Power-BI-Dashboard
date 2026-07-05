@@ -9,8 +9,12 @@ Hi, I'm Samuel, I specialize in financial reporting, statutory compliance, and i
 
 ## Skills showcased
 
- **Data transformation (ETL) with power query**, *Data Collection & Preparation,Data Modeling,DAX (Data Analysis Expressions),Dashboard Design,Data Visualization,Business Intelligence Skills,Analytical Skills Demonstrated*.
-   **KPI summary cards**  *Built headline metric cards for total *job count, star rating*, *median salaries* — *giving instant at-a-glance insight*.
+ **Data transformation (ETL) with power query**, 
+ *Data Collection & Preparation,Data Modeling,DAX (Data Analysis Expressions),Dashboard Design,Data Visualization,Business Intelligence Skills,Analytical Skills Demonstrated*.
+
+   **KPI summary cards** 
+    *Built headline metric cards for total *job count, star rating*, *median salaries* — *giving instant at-a-glance insight*.
+    
    **Line chart — trend analysis**  *Built a 12-month trend chart* (Jan–Dec) showing job volume peaks and troughs across the year*.
 
    **Aggregation measures**      *Created count of job titles (479K), median yearly salary ($113K), and median hourly rate ($47.62) as DAX measures*.
