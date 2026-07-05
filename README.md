@@ -1,7 +1,7 @@
 # Data Job Dashboard / Power Bi
 
 
-![Data Job Dashboard](/Images/Image%201.PNG)
+![Data Job Dashboard]()
 
 ## Introduction
 
